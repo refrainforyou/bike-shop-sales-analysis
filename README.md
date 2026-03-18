@@ -54,17 +54,20 @@ These files were used to build a data model inside Power BI.
 ## 📈 Dashboard Pages
 
 ### 1. Executive Dashboard
-- Total revenue
-- Orders overview
 - Key KPIs
+- Orders by Category
+- Top Products
+- Revenue Trending
 
 ### 2. Customer Analysis
 - Customer distribution
 - Purchase behavior
+- Top Customers
 
 ### 3. Product Analysis
-- Top products
-- Category performance
+- Dynamic Metric Selection
+- Profit Trend Over Time
+- Price Adjustment Simulation
 
 ### 4. Geographic Analysis
 - Sales by region
