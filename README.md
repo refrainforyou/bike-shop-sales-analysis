@@ -1,9 +1,14 @@
 # 🚴 Bike Shop Sales Dashboard (Power BI)
 
-This project is a data analysis and visualization of a bike shop sales dataset using Power BI.  
-It focuses on exploring sales performance, customer behavior, and product insights through interactive dashboards.
+This project is a data analysis and visualization of a bike shop sales dataset built using Power BI.  
+It focuses on transforming raw transactional data into actionable business insights through data modeling and interactive dashboards.
 
-The dataset is based on AdventureWorks sales data and includes multiple related tables stored in CSV format.
+The analysis covers key areas such as sales performance, customer behavior, product efficiency, and regional distribution.  
+The dataset is based on AdventureWorks sales data and includes multiple related tables (sales, customers, products, categories, returns, and geography) stored in CSV format, which were integrated into a unified data model.
+
+Using Power BI, relationships between tables were established, calculated measures (e.g., revenue, profit, return rate) were created, and dynamic dashboards were built to track KPIs, identify trends over time, and evaluate product and customer performance.
+
+The project simulates real-world business analysis scenarios and demonstrates the ability to work with structured data, build data models, and present insights in a clear and interactive way.
 
 ---
 
